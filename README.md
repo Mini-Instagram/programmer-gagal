@@ -1,2 +1,2 @@
 # programmer-gagal
-# programmer-gagal
+Programmer gagal adalah sebuah project buatan anak SMK yang akan dan tetap terus dikembangkan
